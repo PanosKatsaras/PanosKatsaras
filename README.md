@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Panos
 
-## 💫 About Me:
-#I'm a passionate Full Stack Developer from Greece!
+# 💫 About Me:
+I'm a passionate Full Stack Developer from Greece!
 
 
 # 💻 Tech Stack:
