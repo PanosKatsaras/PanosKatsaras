@@ -2,7 +2,7 @@
 Welcome to my GitHub repository!
 
 # 💫 About Me:
-I'm **Panos**, a passionate **Full-Stack Developer** from Greece, always curious and ready to learn new things.
+I'm **Panos**, a passionate **Full-Stack Developer** from Greece, naturally curious and a lifelong learner.
 I like to bring new ideas to life with a blend of technology and creativity! 
 
 
