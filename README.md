@@ -14,6 +14,9 @@ I enjoy bringing new ideas to life with a blend of technology and creativity!
 ![chrome-clone](https://github.com/user-attachments/assets/01b56bff-1d73-4458-88f9-ef95e6ae2650)
 https://panoskatsaras.github.io/chrome-tailwind
 
+<a href="https://panoskatsaras.github.io/chrome-tailwind" target="_blank">🚀 View Live Demo</a>
+
+
 
 
 Thanks for stopping by! Happy coding! 🚀💻
